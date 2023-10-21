@@ -180,7 +180,7 @@ def banner():
  |  ___/ _ \/  __ \|  ___| ___ \|  _  ||  _  | | / /
  | |_ / /_\ \ /  \/| |__ | |_/ /| | | || | | | |/ /     |  |   Author Script BrayennnXD
  |  _||  _  | |    |  __|| ___ \| | | || | | |    \     |  |   Update By Febriven 
- | |  | | | | \__/\| |___| |_/ /\ \_/ /\ \_/ / |\  \    |  |   Version Script 2.6 Update Graph
+ | |  | | | | \__/\| |___| |_/ /\ \_/ /\ \_/ / |\  \    |  |   Version Script 2.6
  \_|  \_| |_/\____/\____/\____/  \___/  \___/\_| \_/                                                                                                     
              """,width=90,title=f"Banner",style=f"bold white"))
 #--------------------[ BAGIAN-MASUK ]--------------#
